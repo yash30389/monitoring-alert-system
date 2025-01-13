@@ -1,0 +1,22 @@
+# Ignore Python cache directories
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+env/
+.env/
+
+# Ignore installed packages in the project directory
+*.egg-info/
+*.dist-info/
+.idea/
+.vscode/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore compiled code
+*.so
+*.pyd
